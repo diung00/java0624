@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3e226d9-2c2b-4e94-8032-fbde214a40a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java0624.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Qh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/d31Conditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/d32loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/d32loopp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Bb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qe.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iJIdSZdu9mh9DqdO4mf1KBHyvX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bb.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Qa.executor": "Run",
+    "Application.Qc.executor": "Run",
+    "Application.Qe.executor": "Run",
+    "Application.Qh.executor": "Run",
+    "Application.d3.exercise.Q1.executor": "Run",
+    "Application.d31Conditional.executor": "Run",
+    "Application.d32loop.executor": "Run",
+    "Application.d32loopp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/java/java0624/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Qh">
+    <configuration name="Bb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.exercise0625.Bb" />
+      <module name="java0624" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.exercise0625.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.exercise0625.Qa" />
+      <module name="java0624" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.exercise0625.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.exercise0625.Qc" />
+      <module name="java0624" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.exercise0625.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d3.exercise0625.Qe" />
+      <module name="java0624" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d3.exercise0625.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qh" />
+      <module name="java0624" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Qh" />
+        <item itemvalue="Application.Qe" />
+        <item itemvalue="Application.Qc" />
+        <item itemvalue="Application.Bb" />
+        <item itemvalue="Application.Qa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e226d9-2c2b-4e94-8032-fbde214a40a3" name="Changes" comment="" />
+      <created>1719202341655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719202341655</updated>
+    </task>
+    <servers />
+  </component>
+</project>

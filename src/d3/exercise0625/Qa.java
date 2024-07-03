@@ -13,7 +13,6 @@ public class Qa {
             int score = scanner.nextInt();
             sum += score;
 
-
         }
         double dtb = (double) sum / 5;
         if (dtb >= 80){

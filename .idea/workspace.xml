@@ -5,76 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3e226d9-2c2b-4e94-8032-fbde214a40a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Car1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/D41class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/D42class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/D43Wrappers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/D4test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q2/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q3/MainPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q4/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q4/MainQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q42/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q42/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q5/Mainnote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/Q5/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/prac/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D4/prac/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/D51Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/D52Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/D53Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/probs/Q0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/probs/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/probs/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/probs/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d5/probs/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d0702/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d0702/D61Extends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d0702/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d62/D62Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d62/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d62/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Beeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Drivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/d64/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0701/Qa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0701/Qb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0701/Qc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702_2/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702_2/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702_2_2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/ex0702_2_2/Saving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/sangsoc/Lecturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/sangsoc/Mainsangsoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/sangsoc/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d6/sangsoc/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmp/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tmp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/D10FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/Q1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/Q1/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d10/people.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d6/d65/D65Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/D7ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/CookingUtensil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/MicroWave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/Switchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d7/Q3/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/ArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/D820ptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/D83Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/D8generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/IntArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q2/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q3/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d8/q1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/D91Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/D92Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/D93usingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/FunctionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/NoArgRetFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Qa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Qb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Qc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d9/ex/Qd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d3/exercise0625/Qa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d3/exercise0625/Qa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +57,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -107,12 +80,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Bb.executor": "Run",
+    "Application.D10FileIO.executor": "Run",
+    "Application.D10fileIO.executor": "Run",
     "Application.D4.Q2.Main.executor": "Run",
     "Application.D51Methods.executor": "Run",
     "Application.D52Recursive.executor": "Run",
     "Application.D53Overloading.executor": "Run",
     "Application.D61Extends.executor": "Run",
     "Application.D62Abstract.executor": "Run",
+    "Application.D65Object.executor": "Run",
+    "Application.D7ExceptionHandling.executor": "Run",
+    "Application.D820ptional.executor": "Run",
+    "Application.D83Collection.executor": "Run",
+    "Application.D91Functional.executor": "Run",
+    "Application.D93usingStream.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainPerson.executor": "Run",
     "Application.MainQ4.executor": "Run",
@@ -120,9 +101,10 @@
     "Application.Q0.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q2.executor": "Run",
-    "Application.Q3.executor": "Run",
+    "Application.Q3.executor": "Debug",
     "Application.Q4.executor": "Run",
     "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
     "Application.Q7.executor": "Run",
     "Application.Qa.executor": "Run",
     "Application.Qb.executor": "Run",
@@ -131,6 +113,7 @@
     "Application.Qf.executor": "Run",
     "Application.Qg.executor": "Run",
     "Application.Qh.executor": "Run",
+    "Application.d10.Q1.Main.executor": "Run",
     "Application.d3.exercise.Q1.executor": "Run",
     "Application.d31Conditional.executor": "Run",
     "Application.d32loop.executor": "Run",
@@ -138,6 +121,9 @@
     "Application.d4class.executor": "Run",
     "Application.d6.d64.Main.executor": "Run",
     "Application.d6.ex0702_2.Main.executor": "Run",
+    "Application.d7.Q3.Main.executor": "Run",
+    "Application.d8.Q2.Main.executor": "Run",
+    "Application.d8.Q5.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -147,13 +133,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.d6.d64.Main">
-    <configuration name="D62Abstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d6.d62.D62Abstract" />
+  <component name="RunManager" selected="Application.d10.Q1.Main">
+    <configuration name="D10FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d10.D10FileIO" />
       <module name="java0624" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d6.d62.*" />
+          <option name="PATTERN" value="d10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D10fileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d10.D10fileIO" />
+      <module name="java0624" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +161,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d6.ex0702.Main" />
+      <option name="MAIN_CLASS_NAME" value="d10.Main" />
       <module name="java0624" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d6.ex0702.*" />
+          <option name="PATTERN" value="d10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mainsangsoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d6.sangsoc.Mainsangsoc" />
+    <configuration name="Qb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d9.ex.Qb" />
       <module name="java0624" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d6.sangsoc.*" />
+          <option name="PATTERN" value="d9.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,25 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="d6.d64.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d6.d64.Main" />
+    <configuration name="d10.Q1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d10.Q1.Main" />
       <module name="java0624" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="d6.d64.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="d6.ex0702_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d6.ex0702_2.Main" />
-      <module name="java0624" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="d6.ex0702_2.*" />
+          <option name="PATTERN" value="d10.Q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.d6.d64.Main" />
-        <item itemvalue="Application.d6.ex0702_2.Main" />
+        <item itemvalue="Application.d10.Q1.Main" />
+        <item itemvalue="Application.D10FileIO" />
+        <item itemvalue="Application.D10fileIO" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.D62Abstract" />
-        <item itemvalue="Application.Mainsangsoc" />
+        <item itemvalue="Application.Qb" />
       </list>
     </recent_temporary>
   </component>
